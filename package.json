@@ -31,7 +31,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevHumbleChris/jadoo.git"
+    "url": "git+https://github.com/KennOtieno/jadoo.git"
   },
   "keywords": [
     "travel",
@@ -41,10 +41,10 @@
     "tailwindcss",
     "pinia"
   ],
-  "author": "AmChrisKE",
+  "author": "KennOtieno",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DevHumbleChris/jadoo/issues"
+    "url": "https://github.com/KennOtieno/jadoo/issues"
   },
-  "homepage": "https://github.com/DevHumbleChris/jadoo#readme"
+  "homepage": "https://github.com/KennOtieno/jadoo#readme"
 }
