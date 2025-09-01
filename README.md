@@ -3,7 +3,7 @@
 **Live Demo:** [View Jadoo Landing Page](https://jadoo-sandy.vercel.app)
 
 
-Jadoo is a travel agency landing page built with Nuxt 3 and TailwindCSS.
+This is a travel agency landing page developed with TailwindCSS and Nuxt.js.
 
 ## Setup
 
